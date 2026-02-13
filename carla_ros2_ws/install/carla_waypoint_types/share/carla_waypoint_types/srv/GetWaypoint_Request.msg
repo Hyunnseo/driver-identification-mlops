@@ -1,0 +1,1 @@
+/home/hyunn/2026/carla_ros2_ws/build/carla_waypoint_types/rosidl_cmake/srv/GetWaypoint_Request.msg

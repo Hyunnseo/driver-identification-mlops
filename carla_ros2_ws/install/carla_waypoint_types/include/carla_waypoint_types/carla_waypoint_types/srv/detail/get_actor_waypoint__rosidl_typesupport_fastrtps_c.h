@@ -1,0 +1,1 @@
+/home/hyunn/2026/carla_ros2_ws/build/carla_waypoint_types/rosidl_typesupport_fastrtps_c/carla_waypoint_types/srv/detail/get_actor_waypoint__rosidl_typesupport_fastrtps_c.h
